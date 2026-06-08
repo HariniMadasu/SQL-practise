@@ -8,6 +8,7 @@ This repository contains my SQL practice questions and solutions from different 
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/HariniMadasu/SQL-practise/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/HariniMadasu/SQL-practise/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/HariniMadasu/SQL-practise/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/HariniMadasu/SQL-practise/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/HariniMadasu/SQL-practise/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/HariniMadasu/SQL-practise/tree/master/1045-customers-who-bought-all-products) |
