@@ -25,5 +25,6 @@ This repository contains my SQL practice questions and solutions from different 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/HariniMadasu/SQL-practise/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/HariniMadasu/SQL-practise/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/HariniMadasu/SQL-practise/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/HariniMadasu/SQL-practise/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariniMadasu/SQL-practise/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
