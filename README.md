@@ -23,6 +23,7 @@ This repository contains my SQL practice questions and solutions from different 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/HariniMadasu/SQL-practise/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/HariniMadasu/SQL-practise/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/HariniMadasu/SQL-practise/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/HariniMadasu/SQL-practise/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/HariniMadasu/SQL-practise/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/HariniMadasu/SQL-practise/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/HariniMadasu/SQL-practise/tree/master/1789-primary-department-for-each-employee) |
