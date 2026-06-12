@@ -7,6 +7,7 @@ This repository contains my SQL practice questions and solutions from different 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/HariniMadasu/SQL-practise/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/HariniMadasu/SQL-practise/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/HariniMadasu/SQL-practise/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/HariniMadasu/SQL-practise/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/HariniMadasu/SQL-practise/tree/master/0596-classes-with-at-least-5-students) |
