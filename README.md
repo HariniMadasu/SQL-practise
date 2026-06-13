@@ -29,6 +29,7 @@ This repository contains my SQL practice questions and solutions from different 
 | [1321-restaurant-growth](https://github.com/HariniMadasu/SQL-practise/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/HariniMadasu/SQL-practise/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/HariniMadasu/SQL-practise/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/HariniMadasu/SQL-practise/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/HariniMadasu/SQL-practise/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/HariniMadasu/SQL-practise/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/HariniMadasu/SQL-practise/tree/master/1907-count-salary-categories) |
