@@ -41,4 +41,12 @@ This repository contains my SQL practice questions and solutions from LeetCode.
 | [1907-count-salary-categories](https://github.com/HariniMadasu/SQL-practise/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/HariniMadasu/SQL-practise/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariniMadasu/SQL-practise/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HariniMadasu/SQL-practise/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HariniMadasu/SQL-practise/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
