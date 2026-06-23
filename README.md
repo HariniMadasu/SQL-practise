@@ -49,4 +49,8 @@ This repository contains my SQL practice questions and solutions from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariniMadasu/SQL-practise/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/HariniMadasu/SQL-practise/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
